@@ -8,5 +8,9 @@ namespace ClassLibraryRepoTest2
 {
     class Class1a
     {
+        public int Add(int x, int y)
+        {
+            return x + y;
+        }
     }
 }
